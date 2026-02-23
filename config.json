@@ -1,8 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Zane-Leo Blog",
+    "subTitle":"观察生活，记录生活，仅此而已。",
     "avatarUrl":"https://avatars.githubusercontent.com/u/88954485?v=4",
     "GMEEK_VERSION":"last",
+    "displayTitle":"Zane-Leo",
     "startSite":"23/2/2026",
     "onePageListNum":15,
     "singlePage":["about"],
